@@ -15,6 +15,6 @@ psjicfh@ubuntu:~/work/lesson1$ mv lellon1 lesson1 //重命名
 psjicfh@ubuntu:~/work/lesson1$ ./leson1
 bash: ./leson1: 没有那个文件或目录
 psjicfh@ubuntu:~/work/lesson1$ ./lesson1
-this is c progam
+this is c progam //C程序运行结果
 psjicfh@ubuntu:~/work/lesson1$ vim lesson1txt
 psjicfh@ubuntu:~/work/lesson1$ 
